@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juaneliezer13
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Nest.js
+- 💞️ I’m looking to collaborate on Laravel and Javascript projects
+- 📫 How to reach me juaneliezer13@gmail.com
